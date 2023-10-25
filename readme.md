@@ -25,3 +25,8 @@
 - Website for Black Salt Catering (AGILE): Designing a dynamic website, testing on personal domain, and working closely with the client. Customizing WordPress themes and adding features.
 - Website for Gold Leaf Pastries (AGILE): Another dynamic website in progress with a focus on capturing brand essence and front-end customization.
 - School Project (AGILE): [View on GitHub](https://kudakwashemutizhe.github.io/home.html). A project using HTML, CSS, and JavaScript to create a local company website.
+
+<h3 align="left">Interests</h3>
+- 🎤 Recording music and performing my songs.
+- ✈️ Traveling and sightseeing.
+- 🏂 Outdoor activities such as snowboarding.
