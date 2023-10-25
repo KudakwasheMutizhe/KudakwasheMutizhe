@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kudakwashe Mutizhe</h1>
 <h3 align="center">A Computer Science Co-op Student on the Path of Mastery</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
 - 📚 Enhancing my expertise in web front-end languages and frameworks like **HTML, CSS, JavaScript**, and **WordPress**.
 - 🌐 Familiar with general-purpose languages like **Java, C, and Python**.
