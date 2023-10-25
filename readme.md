@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kudakwashe Mutizhe</h1>
 <h3 align="center">A Computer Science Co-op Student on the Path of Mastery</h3>
 
-- 🌱 I’m currently learning **Wordpress**
-
-- 📫 How to reach me **kmutizhe2001@gmail.com**
+- 📚 Enhancing my expertise in web front-end languages and frameworks like **HTML, CSS, JavaScript**, and **WordPress**.
+- 🌐 Familiar with general-purpose languages like **Java, C, and Python**.
+- 🚀 Knowledge of coding strategies, software architecture, and the **Agile methodology**.
+- 💼 Actively working on collaborative projects. Open to new opportunities and connections.
+- 🎯 Your go-to source for insights on front-end development, project collaboration, and more!
+- 📧 Feel free to reach out to me at [kmutizhe2001@gmail.com](mailto:kmutizhe2001@gmail.com). Always open to new connections and opportunities.
+- 🎤 Fun fact: I love recording music and performing my songs!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
