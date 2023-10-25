@@ -27,6 +27,7 @@
 - School Project (AGILE): [View on GitHub](https://kudakwashemutizhe.github.io/home.html). A project using HTML, CSS, and JavaScript to create a local company website.
 
 <h3 align="left">Interests</h3>
+
 - 🎤 Recording music and performing my songs.
 - ✈️ Traveling and sightseeing.
 - 🏂 Outdoor activities such as snowboarding.
