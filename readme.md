@@ -1,33 +1,38 @@
-<h1 align="center">Hi 👋, I'm Kudakwashe Mutizhe</h1>
-<h3 align="center">A Computer Science Co-op Student on the Path of Mastery</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+<h1 align="center">Hi 👋, I'm Kudakwashe (Kuda) Mutizhe</h1>
+<h3 align="center">Cloud Engineer | Junior DevOps Engineer | Kamloops, BC</h3>
 
-- 📚 Enhancing my expertise in web front-end languages and frameworks like **HTML, CSS, JavaScript**, and **WordPress**.
-- 🌐 Familiar with general-purpose languages like **Java, C, and Python**.
-- 🚀 Knowledge of coding strategies, software architecture, and the **Agile methodology**.
-- 💼 Actively working on collaborative projects. Open to new opportunities and connections.
-- 🎯 Your go-to source for insights on front-end development, project collaboration, and more!
-- 📧 Feel free to reach out to me at [kmutizhe2001@gmail.com](mailto:kmutizhe2001@gmail.com). Always open to new connections and opportunities.
-- 🎤 Fun fact: I love recording music and performing my songs!
+I'm a Computing Science (Co-op) graduate from Thompson Rivers University with hands-on AWS and Azure experience. I build infrastructure as code with Terraform and CloudFormation, automate with Jenkins CI/CD, and support real users every day as a Technical Support Specialist.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kudakwashe-mutizhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kudakwashe mutizhe" height="30" width="40" /></a>
-<a href="https://instagram.com/wakeen_sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wakeen_sa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wakeen_sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wakeen_sa" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- ☁️ **AWS Cloud Platform Co-op at BCLC:** cut database setup time by about 50% with 3 Terraform modules (Aurora Serverless v2) and 3 self-service Jenkins jobs.
+- 🛠️ **Technical Support Specialist at I.T. Isin Solutions:** Tier 1–2 support for 10+ clients across Microsoft 365, Windows Server, Huntress and ThreatLocker.
+- 🖥️ **IT Systems Co-op at New Gold (New Afton Mine):** Intune, Autopilot, Azure and Hyper-V.
+- 📜 Working toward **AWS Certified Solutions Architect – Associate**.
+- 🔍 Open to cloud engineer and junior DevOps roles in Canada or remote.
 
 <h3 align="left">Projects</h3>
 
-- Website for Black Salt Catering (AGILE): Designing a dynamic website, testing on personal domain, and working closely with the client. Customizing WordPress themes and adding features.
-- Website for Gold Leaf Pastries (AGILE): Another dynamic website in progress with a focus on capturing brand essence and front-end customization.
-- School Project (AGILE): [View on GitHub](https://kudakwashemutizhe.github.io/home.html). A project using HTML, CSS, and JavaScript to create a local company website.
+- **[Self-Hosted Nextcloud & Reverse Proxy](https://github.com/KudakwasheMutizhe/nextcloud-reverse-proxy)**: Nextcloud AIO in Docker behind Nginx Proxy Manager for HTTPS access, with file-sync backups. Fixed false brute-force lockouts by configuring trusted proxies so real client IPs are logged.
+- **[Local AI Agent Environment](https://github.com/KudakwasheMutizhe/local-ai-openclaw)**: OpenClaw in WSL with ChatGPT and local Ollama models. Troubleshot auth errors and tested CPU/memory limits on CPU-only hardware.
+- **Freelance websites**: WordPress sites for [Sacred Grounds Coffee](https://sacredgroundscoffee.ca) and Black Salt Catering, used by 100+ customers.
 
-<h3 align="left">Interests</h3>
+<h3 align="left">Tools I Use</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-- 🎤 Recording music and performing my songs.
-- ✈️ Traveling and sightseeing.
-- 🏂 Outdoor activities such as snowboarding.
+<h3 align="left">Connect with me</h3>
+
+- 💼 [LinkedIn](https://linkedin.com/in/kudakwashe-mutizhe)
+- 📧 [kmutizhe2001@gmail.com](mailto:kmutizhe2001@gmail.com)
+
+🎤 Fun fact: outside of tech, I record and perform music as Wakeen SA. I also love travelling and snowboarding.
