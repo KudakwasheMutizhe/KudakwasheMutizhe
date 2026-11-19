@@ -3,7 +3,7 @@
 
 I'm a Computing Science (Co-op) graduate from Thompson Rivers University with hands-on AWS and Azure experience. I build infrastructure as code with Terraform and CloudFormation, automate with Jenkins CI/CD, and support real users every day as a Technical Support Specialist.
 
-- ☁️ **AWS Cloud Platform Co-op at BCLC:** cut database setup time by about 50% with 3 Terraform modules (Aurora Serverless v2) and 3 self-service Jenkins jobs.
+- ☁️ **Co-op, Business Technology (AWS Cloud Platform team) at BCLC:** cut database setup time by about 50% with 3 Terraform modules (Aurora Serverless v2) and 3 self-service Jenkins jobs.
 - 🛠️ **Technical Support Specialist at I.T. Isin Solutions:** Tier 1–2 support for 10+ clients across Microsoft 365, Windows Server, Huntress and ThreatLocker.
 - 🖥️ **IT Systems Co-op at New Gold (New Afton Mine):** Intune, Autopilot, Azure and Hyper-V.
 - 📜 Working toward **AWS Certified Solutions Architect – Associate**.
@@ -11,8 +11,8 @@ I'm a Computing Science (Co-op) graduate from Thompson Rivers University with ha
 
 <h3 align="left">Projects</h3>
 
-- **[Self-Hosted Nextcloud & Reverse Proxy](https://github.com/KudakwasheMutizhe/nextcloud-reverse-proxy)**: Nextcloud AIO in Docker behind Nginx Proxy Manager for HTTPS access, with file-sync backups. Fixed false brute-force lockouts by configuring trusted proxies so real client IPs are logged.
-- **[Local AI Agent Environment](https://github.com/KudakwasheMutizhe/local-ai-openclaw)**: OpenClaw in WSL with ChatGPT and local Ollama models. Troubleshot auth errors and tested CPU/memory limits on CPU-only hardware.
+- **[Home Lab Server & Nextcloud](https://github.com/KudakwasheMutizhe/nextcloud-reverse-proxy)**: built a 32 GB RAM Windows Docker home server from recycled PC parts. It runs Nextcloud AIO behind Nginx Proxy Manager with HTTPS on a free DuckDNS domain, and stays private: I reach it from anywhere only through Twingate zero-trust access. My phone, iPad, and MacBook back up to it, a file sync app copies the data drive to a second internal drive, and I maintain the server myself. Fixed false brute-force lockouts on my local network by configuring trusted proxies so real client IPs are logged.
+- **[Local AI Agent Environment](https://github.com/KudakwasheMutizhe/local-ai-openclaw)**: OpenClaw in WSL with ChatGPT and local Ollama models, on a CPU-only test PC I built from parts (i5, 32 GB RAM). Troubleshot auth errors and failing scenario packs, and benchmarked CPU/memory load.
 - **Freelance websites**: WordPress sites for [Sacred Grounds Coffee](https://sacredgroundscoffee.ca) and Black Salt Catering, used by 100+ customers.
 
 <h3 align="left">Tools I Use</h3>
